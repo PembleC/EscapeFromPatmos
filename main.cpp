@@ -21,6 +21,8 @@ const int NUM_ARMORS = 10;
 // UPDATED VERSION 8/15/18
 // Fixed the escaping battles
 
+// UPLOADED TO GITHUB 10/17/19
+
 void buildMap(Room allLocations[], Item allItems[], Weapon allWeapons[], Character allEnemies[], Armor allArmors[]) {
 
 
@@ -641,11 +643,12 @@ int main() {
 
         sleep(2);
 
-        cout << "Current High Score... Tim Nye: 1547" << endl
-             << "Ash Champagne: 1521" << endl
-             << "Josh Sullenger: 1105" << endl
-             << "Amy Rodriguez: 903" << endl
-             << "Byron Theissen: 858" << endl
+        cout << "Current High Score..." << endl
+             << "1. Tim Nye: 1547" << endl
+             << "2. Ash Champagne: 1521" << endl
+             << "3. Josh Sullenger: 1105" << endl
+             << "4. Amy Rodriguez: 903" << endl
+             << "5. Byron Theissen: 858" << endl
              << "  (Max Score: 2100)  " << endl << endl;
 
         // Carson Scores around 1950
