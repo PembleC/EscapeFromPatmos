@@ -25,4 +25,8 @@ Tip #3 Equip your weapon and armor as soon as you find them
 Tip #4 You can type: !
         to end the game.
 
-Tip #5 HAVE FUN!
+Tip #5 You can type: h
+        to get in-game help.
+
+
+HAVE FUN!
