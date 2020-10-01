@@ -2,7 +2,7 @@
 A text-based adventure game. This command line interface game originated as a simple c++ assignment but grew into much more. I really enjoyed creating this game and I hope you enjoy playing it.
 
 
-##### Compiling the Game #####
+#### Compiling the Game ####
 Download the zip file from this GitHub page.
 <br />Unzip the "EscapeFromPatmos-master" folder.
 <br />Open up a new terminal at the new folder.
@@ -11,14 +11,14 @@ Download the zip file from this GitHub page.
 <br />Compile the game by typing this in the commandline: *g++ \*.cpp -g -std=c++11 -m32 -o game.exe*
 
 
-##### Running the Game #####
+#### Running the Game ####
 Once the game has compiled type: *./game.exe*
 
 
 ![](game_screenshot.png)
 
 
-##### Playing the Game #####
+#### Playing the Game ####
 Tip #1 Your character's name can't have spaces... sorry.
 
 Tip #2 Navigate by pressing: s
